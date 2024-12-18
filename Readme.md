@@ -1,9 +1,9 @@
 # **PROJET: HOUSE PRICE PREDICTION**
 
-Fait par des élèves ingénieurs statisticiens économistes de l'Ecole nationale de la statistique et de l'analyse économique:
+Fait par des élèves ingénieurs statisticiens économistes de l'Ecole Nationale de la Statistique et de l'Analyse Economique Pierre Ndiaye de Dakar:
 - sié rachid Traoré 
-- Mum El hadj Sarr
-- Cheick Sadibou Ngom
+- Mame El hadj Sarr
+- Cheickh Sadibou Ngom
 - Adoumbaye Madjyam
 
 # Le projet est structuré en dossiers code, data et images
